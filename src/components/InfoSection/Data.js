@@ -9,7 +9,7 @@ export const homeObjOne={
     lightTextDesce:false,
     Topline:'About Me',
     Headline:'i am tharun kumar, B.E Computer Science ',
-    description:'student of rajalakshmi engineering college passed-out batch of 2020.I self-taught me self User Experience Design as well as front-end developemnent.',
+    description:'student of rajalakshmi engineering college passed-out batch of 2020.I taught my-self User Experience Design as well as front-end developemnent.',
     buttonLabel:'LinkedIn',
     imgStart:false,
     img:require('../../images/profile.png').default,
