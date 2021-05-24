@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.61d0a6bd.chunk.css",
+    "main.js": "/Portfolio/static/js/main.5da86509.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.5da86509.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.3180d3db.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.3180d3db.js.map",
+    "static/js/2.8ec77cba.chunk.js": "/Portfolio/static/js/2.8ec77cba.chunk.js",
+    "static/js/2.8ec77cba.chunk.js.map": "/Portfolio/static/js/2.8ec77cba.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.61d0a6bd.chunk.css.map": "/Portfolio/static/css/main.61d0a6bd.chunk.css.map",
+    "static/js/2.8ec77cba.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.8ec77cba.chunk.js.LICENSE.txt",
+    "static/media/Tharun-kumar_Resume.f98bc13d.pdf": "/Portfolio/static/media/Tharun-kumar_Resume.f98bc13d.pdf",
+    "static/media/profile.png": "/Portfolio/static/media/profile.2a8f5830.png",
+    "static/media/project1.5b1da989.png": "/Portfolio/static/media/project1.5b1da989.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3180d3db.js",
+    "static/js/2.8ec77cba.chunk.js",
+    "static/css/main.61d0a6bd.chunk.css",
+    "static/js/main.5da86509.chunk.js"
+  ]
+}
