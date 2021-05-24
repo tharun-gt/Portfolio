@@ -129,7 +129,7 @@ font-weight: bold;
 export const TextArea=styled.textarea`
   /* height: 150px; */
   max-width: 540px;
-  max-height: 300px;
+ max-height: 300px;
   padding: 20px;
   border-radius: 3px;
   /* box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.137); */
