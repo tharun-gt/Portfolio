@@ -4,7 +4,7 @@ import{ HeroContainer,
         HeroH1,HeroContent,
         HeroBtnWrapper,Herop,
         Download,ChevronDown,Button,Move} from './HeroElements'
-import Resume from '../../Pdf/Tharun-kumar_Resume.pdf'
+import Resume from "../../Pdf/Tharun's-Resume"
 // import { Button } from '../ButtonElements'
 
 
