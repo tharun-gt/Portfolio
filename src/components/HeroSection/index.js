@@ -4,7 +4,7 @@ import{ HeroContainer,
         HeroH1,HeroContent,
         HeroBtnWrapper,Herop,
         Download,ChevronDown,Button,Move} from './HeroElements'
-import Resume from "../../Pdf/Tharun's-Resume"
+import Resume from "../../Pdf/Tharun's-Resume.pdf"
 // import { Button } from '../ButtonElements'
 
 
@@ -29,7 +29,7 @@ const HeroSection = () => {
                 {/* <Herop>UI/UX Designer and Front-end Developer</Herop> */}
                <Herop>I'm <Move ref={textref}></Move></Herop>
                 <HeroBtnWrapper>
-                    <Button href={Resume} download="Tharun-kumar_Resume" target="_blank" onMouseEnter={onHover} onMouseLeave={onHover} >
+                    <Button href={Resume} download="Tharun's_Resume" target="_blank" onMouseEnter={onHover} onMouseLeave={onHover} >
                         Resume {hover ? <Download/>:<ChevronDown/>}
                     </Button>
                 </HeroBtnWrapper>
